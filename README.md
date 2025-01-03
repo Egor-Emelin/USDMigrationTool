@@ -1,2 +1,2 @@
-# USDMigtrationTool
+# USDMigrationTool
 Houdini USD converter
